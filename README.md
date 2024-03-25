@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Next JS**
 
-- 👨‍💻 All of my projects are available at [karthickb2210.netlify.app](karthickb2210.netlify.app)
+- 👨‍💻 All of my projects are available at [karthickb2210.netlify.app](/karthickb2210)
 
 - 💬 Ask me about **javascript, react, springboot, java, data structures and algorithms**
 
